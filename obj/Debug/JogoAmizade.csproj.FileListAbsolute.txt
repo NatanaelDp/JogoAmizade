@@ -1,0 +1,8 @@
+C:\Users\natan\source\repos\JogoAmizade\JogoAmizade\bin\Debug\JogoAmizade.exe.config
+C:\Users\natan\source\repos\JogoAmizade\JogoAmizade\bin\Debug\JogoAmizade.exe
+C:\Users\natan\source\repos\JogoAmizade\JogoAmizade\bin\Debug\JogoAmizade.pdb
+C:\Users\natan\source\repos\JogoAmizade\JogoAmizade\obj\Debug\JogoAmizade.csproj.AssemblyReference.cache
+C:\Users\natan\source\repos\JogoAmizade\JogoAmizade\obj\Debug\JogoAmizade.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\source\repos\JogoAmizade\JogoAmizade\obj\Debug\JogoAmizade.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\JogoAmizade\JogoAmizade\obj\Debug\JogoAmizade.exe
+C:\Users\natan\source\repos\JogoAmizade\JogoAmizade\obj\Debug\JogoAmizade.pdb
